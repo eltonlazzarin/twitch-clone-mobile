@@ -16,8 +16,6 @@
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/eltonlazzarin/twitch-clone-mobile">
 
   <img alt="GitHub" src="https://img.shields.io/github/license/eltonlazzarin/twitch-clone-mobile">
-
-  <img alt="Netlify Status" src="https://api.netlify.com/api/v1/badges/fc7cfcf6-7748-454b-b192-7dd83b7db91d/deploy-status">
 </p>
 
 <p align="center">
