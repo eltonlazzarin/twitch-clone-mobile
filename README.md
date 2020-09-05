@@ -1,5 +1,5 @@
 <h1 align="center">
-	<img alt="Discord logo" src="https://github.com/eltonlazzarin/linkedin-clone/blob/master/screenshots/linkedin.svg" height="150px" width="150px" />
+	<img alt="Twitch logo" src="https://github.com/eltonlazzarin/twitch-clone-mobile/blob/master/screenshots/twitch.svg" height="150px" width="150px" />
 </h1>
 
 <h3 align="center">
