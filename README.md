@@ -32,7 +32,7 @@
     <img alt="Twitch Gif" src="https://github.com/eltonlazzarin/twitch-clone-mobile/blob/master/screenshots/twitchtv.gif" hight="380" width="350" />
 </h1>
 
-<p>This is a project that consists of creating a UI clone of the LinkdeIn feed that has been improved and added the feature to like the post and as they are in action, it will automatically open the comments session that the post received. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
+<p>This is a project that consists of creating a UI clone of the TwitchTV mobile app. The project was developed in ReactJS in conjunction with TypeScript and other tools.</p>
 
 ## 🚀 Technologies
 
