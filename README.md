@@ -29,7 +29,7 @@
 ## 👨🏻‍💻 About the project
 
 <h1 align="center">
-	<img alt="Project Screenshots" src="https://github.com/eltonlazzarin/twitch-clone-mobile/blob/master/screenshots/linkedin.gif" />
+    <img alt="Twitch Gif" src="https://github.com/eltonlazzarin/twitch-clone-mobile/blob/master/screenshots/twitchtv.gif" hight="380" width="350" />
 </h1>
 
 <p align="center">
